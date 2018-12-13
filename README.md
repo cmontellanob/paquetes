@@ -5,8 +5,10 @@ Carlos David Montellano Barriga
 Control personalizado Tooltip, para incluir Tooltip en los imputs,
 se colocael textoa aprecer enel tooltip dentro delcurpodelelementoTooltip
 
-## Mejoras en laversion 1.1.1
+## Mejoras en laversion 1.1.3
 incluye colores a los tips
+Arregla bugs 
+prueba incluida
 
 ## Instalación
 npm install paquetes## Forma de uso 
