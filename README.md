@@ -4,14 +4,20 @@ Carlos David Montellano Barriga
 ## Descripción
 Control personalizado Tooltip, para incluir Tooltip en los imputs,
 se colocael textoa aprecer enel tooltip dentro delcurpodelelementoTooltip
+
+## Mejoras en laversion 1.1.0
+incluye colores a los tips
+
 ## Instalación
-npm install paquetes
-## Forma de uso 
+npm install paquetes## Forma de uso 
 Se debe incluir la referencia al js
 <script type="text/javascript"
 src="node_modules/paquetes/lib/index.js"></script>
+e incluir la referencia alosestilos 
+<link rel="stylesheet" type="text/css" href="node_modules/paquetes/lib/tooltip.css">
 Colocar el tootip 
 
+ <label for="name">Nombre:</label>
 <input id="name" aria-describedby="tp1" />
     <howto-tooltip id="tp1">Introducir el nombre de alumno</howto-tooltip>
 

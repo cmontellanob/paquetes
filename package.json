@@ -1,7 +1,7 @@
 {
     "name": "paquetes",
-    "version": "1.0.1",
-    "description": "Controles Personalizados CMB",
+    "version": "1.1.0",
+    "description": "Controles Personalizados CMB con colores",
     "main": "./lib/index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
