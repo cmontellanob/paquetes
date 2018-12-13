@@ -15,9 +15,9 @@ npm install paquetes## Forma de uso
 
 Se debe incluir la referencia al js
 
-    <script type="text/javascript"
-src="node_modules/paquetes/lib/index.js"></script>
-e incluir la referencia a los estilos css
+    <script type="text/javascript" src="node_modules/paquetes/lib/index.js"></script>
+
+Tambien se debe incluir la referencia a los estilos css
 
     <link rel="stylesheet" type="text/css"    ref="node_modules/paquetes/lib/tooltip.css">
 
