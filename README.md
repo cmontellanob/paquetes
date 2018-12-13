@@ -5,7 +5,7 @@ Carlos David Montellano Barriga
 Control personalizado Tooltip, para incluir Tooltip en los imputs,
 se colocael textoa aprecer enel tooltip dentro delcurpodelelementoTooltip
 
-## Mejoras en laversion 1.1.0
+## Mejoras en laversion 1.1.1
 incluye colores a los tips
 
 ## Instalación
@@ -19,7 +19,7 @@ Se debe incluir la referencia al js
 
 Tambien se debe incluir la referencia a los estilos css
 
-    <link rel="stylesheet" type="text/css"    ref="node_modules/paquetes/lib/tooltip.css">
+    <link rel="stylesheet" type="text/css"    href="node_modules/paquetes/lib/tooltip.css">
 
 ### Ejemplo
 
