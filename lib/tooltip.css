@@ -1,0 +1,19 @@
+howto-tab {
+    border: 1px solid black;
+    padding: 20px;
+}
+
+howto-panel {
+    padding: 20px;
+    background-color: lightgray;
+}
+
+howto-tab[selected] {
+    background-color: bisque;
+}
+
+howto-tabs:not(:defined),
+howto-tab:not(:defined),
+howto-panel:not(:defined) {
+    display: block;
+}
