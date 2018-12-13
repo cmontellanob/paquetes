@@ -15,16 +15,16 @@ npm install paquetes## Forma de uso
 
 Se debe incluir la referencia al js
 
-<script type="text/javascript"
+    <script type="text/javascript"
 src="node_modules/paquetes/lib/index.js"></script>
 e incluir la referencia a los estilos css
 
-<link rel="stylesheet" type="text/css" href="node_modules/paquetes/lib/tooltip.css">
-Colocar el tootip 
+    <link rel="stylesheet" type="text/css"    ref="node_modules/paquetes/lib/tooltip.css">
 
 ### Ejemplo
- <label for="name">Nombre:</label>
-<input id="name" aria-describedby="tp1" />
+
+    <label for="name">Nombre:</label>
+    <input id="name" aria-describedby="tp1" />
     <howto-tooltip id="tp1">Introducir el nombre de alumno</howto-tooltip>
 
 ## Repositorio git
