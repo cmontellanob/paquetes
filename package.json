@@ -1,6 +1,6 @@
 {
     "name": "paquetes",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Controles Personalizados CMB",
     "main": "./lib/index.js",
     "scripts": {
