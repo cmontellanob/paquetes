@@ -11,8 +11,10 @@ Se debe incluir la referencia al js
 <script type="text/javascript"
 src="node_modules/paquetes/lib/index.js"></script>
 Colocar el tootip 
+
 <input id="name" aria-describedby="tp1" />
     <tooltip id="tp1">Introducir el nombre de alumno</tooltip>
+
 ## Repositorio git
 https://github.com/cmontellanob/paquetes
 
